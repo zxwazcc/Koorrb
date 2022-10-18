@@ -1,0 +1,5 @@
+local CM = Instance.new("CharacterMesh")
+CM.Parent = game.Players.LocalPlayer.Character
+CM.BodyPart = "RightLeg"
+CM.MeshId = "101851696"
+CM.OverlayTextureId = "101851254"
